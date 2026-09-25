@@ -1,0 +1,6 @@
+{
+  "name": "Career Compass",
+  "description": "A student-friendly career counselling and guidance prototype to discover interests, explore careers, analyze skill gaps, and build personalized roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
